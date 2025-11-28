@@ -1,5 +1,5 @@
 🇮🇳 India Elections Results Analysis | Power BI & SQL
-
+![image text](https://github.com/MkSingh431/India-Elections-Results-Analysis_PowerBI-SQL/blob/main/Screenshot/dashboard.png)
 📌 Overview
 
 This project provides an interactive and data-driven analysis of the India General Elections 2024, using SQL for data extraction & transformation and Power BI for visualization. The dashboards offer real-time insights into party performance, voter trends, seat distribution, and election results to support data-driven decision-making.
@@ -17,7 +17,7 @@ This project provides an interactive and data-driven analysis of the India Gener
 
 ✔ Provided strategic insights into voter turnout, seat share, and constituency-level results for political analysis.
 
-
+![image text](https://github.com/MkSingh431/India-Elections-Results-Analysis_PowerBI-SQL/blob/main/Screenshot/Screenshot%202025-11-28%20100825.png)
 🗳️ Key Insights & Dashboards
 
 🔹 Landing Page
@@ -42,13 +42,13 @@ Identification of most competitive constituencies based on vote margins.
 Breakdown of seats won by major alliances (NDA, I.N.D.I.A, Others).
 Vote share percentage and trends in party performance over multiple elections.
 Interactive visuals: bar charts, heatmaps, and line graphs to analyze political shifts.
-
+![image text](https://github.com/MkSingh431/India-Elections-Results-Analysis_PowerBI-SQL/blob/main/Screenshot/Screenshot%202025-11-28%20100757.png)
 
 
 🛠 Technical Implementation
 
 🔹 SQL Data Processing & Queries
-
+![image text](https://github.com/MkSingh431/India-Elections-Results-Analysis_PowerBI-SQL/blob/main/Screenshot/sql%20problem%20statement.png)
 ✔ Data Extraction & Transformation
 
 Used INNER JOINs, LEFT JOINs, Window Functions, CTEs, and Aggregations (SUM, COUNT, RANK, PARTITION BY) to process election data.
@@ -67,7 +67,7 @@ Winning candidate's details (name, votes, party, victory margin).
 Seat distribution by state and alliance (total NDA, I.N.D.I.A, and Others seats).
 Top 10 candidates with the highest EVM votes.
 Runner-up analysis for each constituency.
-
+![image text](https://github.com/MkSingh431/India-Elections-Results-Analysis_PowerBI-SQL/blob/main/Screenshot/sql%20query.png)
 
 🔹 Power BI Data Modeling & Visualization
 
