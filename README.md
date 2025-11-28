@@ -129,6 +129,7 @@ This project demonstrates advanced SQL data processing, data modeling, and Power
 ✔ Gain insights into political trends and election results
 
 📧 Connect with Me
-
+[Linkedln](https://www.linkedin.com/in/motilal-das-42b4a9254?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAD64mSMBFgXkXwCLAWD9sLe_sBVrG2CWqEQ&lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BH68pT7bcQjS%2F7FaSBN9%2Bdg%3D%3D)\
+[Email](mks465261@gmail.com)
 For queries or feedback, feel free to reach out! 🚀
 
